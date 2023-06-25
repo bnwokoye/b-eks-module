@@ -1,4 +1,4 @@
-# My Terraform MODULE to provision an EKS Cluster with custom Networking ----->
+# MY TERRAFORM MODULE TO PROVISION AN EKS CLUSTER WITH CUSTOM NETWORKING ----->
 
 
 
